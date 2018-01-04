@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c0733bfe-2901-4d98-91c1-bbcffa4ec40a" name="www.grotherm.com" url="http://u89297456-grotherm">
+        <fileTransfer host="u89297456-grotherm" port="21" rootFolder="/webroot">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
